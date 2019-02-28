@@ -1,0 +1,32 @@
+/*
+
+*/
+
+
+body{
+	background: #f4d3d0;
+}
+h1 {
+	color :#06070e ;
+}
+h2 {
+	color:#29524a ;
+}
+h3 {
+	color:#29524a;
+}
+p , li {
+	color: #778268;
+}
+a {
+	color: #778268 ;
+}
+a:hover{
+	color: #59f6ff ;
+}
+.work{
+	background: #c5afa0;
+}
+.education{
+	background: #c5afa0;
+}
